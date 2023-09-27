@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyLoginApp</string>
+    <string name="web_client_id">--replace with your own id ------</string>
+    <string name="app_title">Welcome</string>
+    <string name="string_google">Login with Google</string>
+    <string name="string_fb">Login with Facebook</string>
+    <string name="string_pwd">Enter Password</string>
+    <string name="string_user">Enter Name</string>
+    <string name="string_forgotPwd">Forgot password?</string>
+    <string name="string_signup">Sign Up\!</string>
+    <string name="string_noAccount">Do\'nt have an account?</string>
+    <string name="btn_login">Login</string>
+    <string name="String_SubTitle">Warehouse Dashboard</string>
+</resources>
